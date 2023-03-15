@@ -1,0 +1,301 @@
+,order_id,customer_id,customer_email,customer_address,amount,item,brand
+0,1,9,paulaholloway@example.net,"2717 Hernandez Radial
+East Lindsey, NY 53624",114.71,Monitor,Corsair
+1,2,13,hmiller@example.org,"45754 Ronald Manor
+Loweport, MT 88546",93.89,SSD,Corsair
+2,3,45,katherine15@example.net,"23984 Carter Dale Apt. 149
+East Austinchester, CT 19251",80.74,Power Supply,AMD
+3,4,53,ihebert@example.com,"50215 Michael Place Apt. 234
+North Connor, MT 85846",56.05,Monitor,Western Digital
+4,5,7,daviskatie@example.org,"955 Lawson Estates
+Reillyfurt, MI 85898",96.15,Cooling Fan,Crucial
+5,6,69,perezsara@example.com,"4947 Tucker Isle
+Sarahmouth, IL 71802",118.75,Cooling Fan,AMD
+6,7,25,georgeandrew@example.com,"0632 Harrison Highway Apt. 379
+Crystalport, HI 15104",98.78,RAM,Intel
+7,8,18,nathan43@example.org,"424 Michael Cove
+Garzaborough, NC 44753",103.27,GPU,Intel
+8,9,97,dennis30@example.net,"3306 John Summit Suite 462
+New Juan, WY 45798",63.56,CPU,AMD
+9,10,55,scole@example.org,"USNS Rodgers
+FPO AE 01272",82.79,HDD,Samsung
+10,11,58,igonzalez@example.com,"25579 Pena Mission Apt. 740
+West Laceymouth, WY 74524",121.31,Monitor,Western Digital
+11,12,73,michaelmorgan@example.net,"816 William Isle Suite 860
+Georgeborough, AR 40227",72.28,CPU,Western Digital
+12,13,28,daybrendan@example.com,"68844 Ellis Isle Suite 873
+West Billyshire, OR 93499",118.72,Power Supply,MSI
+13,14,8,tferguson@example.org,"8093 Haas Locks
+Bryantmouth, NY 91593",85.17,RAM,Crucial
+14,15,55,scole@example.org,"USNS Rodgers
+FPO AE 01272",51.13,CPU,Crucial
+15,16,7,daviskatie@example.org,"955 Lawson Estates
+Reillyfurt, MI 85898",52.44,Monitor,Crucial
+16,17,65,zhall@example.net,"2527 Mccarty Grove Suite 156
+Timothymouth, WV 17899",77.17,Case,AMD
+17,18,80,vernon25@example.org,"244 Samantha Villages
+Carolynfort, MN 56225",48.35,CPU,NVIDIA
+18,19,68,adam94@example.org,"39279 Alexandra Course
+Kimland, MS 06086",106.04,CPU,Crucial
+19,20,97,dennis30@example.net,"3306 John Summit Suite 462
+New Juan, WY 45798",103.77,GPU,Western Digital
+20,21,42,gpearson@example.com,"47624 Simmons Mission
+Cindystad, NH 81448",39.41,Cooling Fan,Western Digital
+21,22,93,kirbydiane@example.org,"8291 Ashlee Avenue Suite 055
+Gravestown, SD 32727",95.53,Monitor,AMD
+22,23,14,briannahendricks@example.net,"Unit 6718 Box 1414
+DPO AP 33213",70.68,SSD,AMD
+23,24,84,garnerwilliam@example.org,"85793 Jennifer Land Suite 276
+New Alfredmouth, AZ 29456",91.45,GPU,AMD
+24,25,13,hmiller@example.org,"45754 Ronald Manor
+Loweport, MT 88546",48.94,SSD,Gigabyte
+25,26,70,patrick19@example.com,"83019 Matthew Hills Apt. 262
+Valeriemouth, ME 13174",108.58,Cooling Fan,ASUS
+26,27,4,qwhite@example.org,"408 Kimberly Points Apt. 309
+Staceyville, NE 56202",108.58,Monitor,Western Digital
+27,28,69,perezsara@example.com,"4947 Tucker Isle
+Sarahmouth, IL 71802",38.72,Monitor,ASUS
+28,29,54,tylerlane@example.com,"0659 Moody Groves
+Alvarezchester, NY 52900",80.39,HDD,Gigabyte
+29,30,61,erik28@example.com,"00250 David Bridge Apt. 598
+West Sethmouth, OH 97552",117.09,SSD,Gigabyte
+30,31,45,katherine15@example.net,"23984 Carter Dale Apt. 149
+East Austinchester, CT 19251",28.83,Cooling Fan,Western Digital
+31,32,22,kayla35@example.com,"0700 Pena Shoal
+Huertaland, WA 00938",97.17,Power Supply,Western Digital
+32,33,74,eallison@example.org,"61185 Timothy Causeway
+Michaelport, HI 69667",95.68,Power Supply,ASUS
+33,34,43,jessica40@example.com,"84855 Amy Mountains
+Brownview, ME 06296",83.66,CPU,Gigabyte
+34,35,59,lmills@example.net,"7578 Kristi Causeway Apt. 756
+Mckinneyhaven, MO 12669",49.24,Cooling Fan,ASUS
+35,36,37,jaimecox@example.com,"1436 Jennifer Circle
+West Nicole, ND 56076",55.03,SSD,Gigabyte
+36,37,54,tylerlane@example.com,"0659 Moody Groves
+Alvarezchester, NY 52900",105.49,Power Supply,NVIDIA
+37,38,67,victoriameyer@example.com,"636 Keith Key Apt. 267
+New Michael, WI 59532",106.67,RAM,MSI
+38,39,54,tylerlane@example.com,"0659 Moody Groves
+Alvarezchester, NY 52900",119.91,RAM,Gigabyte
+39,40,12,christinahoward@example.com,"35395 Paul Crescent Suite 629
+West Davidport, OK 21641",104.51,Monitor,Intel
+40,41,10,kristophergregory@example.org,"157 Rodgers Fort
+Port James, ID 05760",41.53,Motherboard,MSI
+41,42,62,peter87@example.com,"71340 Richard Crossing Apt. 645
+Lake Joshua, NJ 26337",59.48,Cooling Fan,Intel
+42,43,26,morrisjoseph@example.com,"519 Robert Manors
+Lake Deborah, FL 50833",33.24,Monitor,Gigabyte
+43,44,4,qwhite@example.org,"408 Kimberly Points Apt. 309
+Staceyville, NE 56202",75.6,GPU,MSI
+44,45,35,thompsonkristen@example.net,"61814 Garcia Inlet Suite 013
+North Christian, NJ 12394",113.41,HDD,ASUS
+45,46,78,lopezmegan@example.com,"5526 Mcclure Courts
+Madisonbury, FL 40175",27.81,Motherboard,Samsung
+46,47,73,michaelmorgan@example.net,"816 William Isle Suite 860
+Georgeborough, AR 40227",64.61,Cooling Fan,NVIDIA
+47,48,53,ihebert@example.com,"50215 Michael Place Apt. 234
+North Connor, MT 85846",79.12,RAM,MSI
+48,49,56,hdavis@example.net,"1480 Williamson View
+Michaelchester, NY 96796",64.71,RAM,ASUS
+49,50,84,garnerwilliam@example.org,"85793 Jennifer Land Suite 276
+New Alfredmouth, AZ 29456",58.18,RAM,Corsair
+50,51,56,hdavis@example.net,"1480 Williamson View
+Michaelchester, NY 96796",83.38,Power Supply,Intel
+51,52,83,christina20@example.com,"742 Kevin Spring Suite 141
+South Cindymouth, RI 59097",40.73,SSD,NVIDIA
+52,53,26,morrisjoseph@example.com,"519 Robert Manors
+Lake Deborah, FL 50833",98.73,SSD,Gigabyte
+53,54,35,thompsonkristen@example.net,"61814 Garcia Inlet Suite 013
+North Christian, NJ 12394",99.66,Cooling Fan,NVIDIA
+54,55,58,igonzalez@example.com,"25579 Pena Mission Apt. 740
+West Laceymouth, WY 74524",76.77,GPU,ASUS
+55,56,41,jonesrobert@example.net,"13022 Mitchell Fort Suite 482
+Andersonside, SD 16925",62.47,GPU,Gigabyte
+56,57,98,gturner@example.net,"819 Hill Center
+South Thomas, VA 02659",100.91,Cooling Fan,Crucial
+57,58,40,meltonzachary@example.com,"108 Beard Isle Suite 665
+New Davidhaven, WY 50899",25.51,RAM,MSI
+58,59,66,ufernandez@example.com,"6583 Regina Keys
+North Joshua, OR 04993",55.44,Power Supply,Samsung
+59,60,85,millerrebecca@example.org,"17801 Carr Circles Apt. 539
+South Michael, WI 36116",23.73,Cooling Fan,NVIDIA
+60,61,65,zhall@example.net,"2527 Mccarty Grove Suite 156
+Timothymouth, WV 17899",119.38,RAM,MSI
+61,62,99,parkermark@example.net,"USS Taylor
+FPO AP 89927",53.45,Monitor,NVIDIA
+62,63,3,randy20@example.org,"7010 Jessica Harbors
+New Tarabury, NY 98160",27.27,Power Supply,MSI
+63,64,60,teresadiaz@example.net,"6530 Wesley Meadow Apt. 854
+Port Eric, CA 56445",101.36,SSD,AMD
+64,65,45,katherine15@example.net,"23984 Carter Dale Apt. 149
+East Austinchester, CT 19251",75.72,CPU,Western Digital
+65,66,74,eallison@example.org,"61185 Timothy Causeway
+Michaelport, HI 69667",58.76,Motherboard,ASUS
+66,67,51,allensean@example.org,"17631 Jason Springs
+Nathanielberg, MI 15279",92.15,CPU,Intel
+67,68,51,allensean@example.org,"17631 Jason Springs
+Nathanielberg, MI 15279",54.01,SSD,Corsair
+68,69,17,mgarcia@example.net,"9147 Michael Mountain Apt. 214
+West Andreaport, IL 09085",98.4,RAM,ASUS
+69,70,17,mgarcia@example.net,"9147 Michael Mountain Apt. 214
+West Andreaport, IL 09085",75.86,CPU,Corsair
+70,71,52,dakotaperez@example.net,"346 Sara Junctions Suite 267
+West Connor, CT 71764",93.92,Cooling Fan,AMD
+71,72,88,knixon@example.com,"9879 Samantha Isle Apt. 172
+North Davidton, CO 67243",109.87,GPU,Samsung
+72,73,71,christina60@example.com,"5809 Lauren Causeway Suite 174
+Gregoryton, NH 34282",90.48,Power Supply,Gigabyte
+73,74,65,zhall@example.net,"2527 Mccarty Grove Suite 156
+Timothymouth, WV 17899",40.69,CPU,Crucial
+74,75,29,zachary28@example.org,"89550 Bridget Circles
+Weissfurt, LA 78908",79.86,Monitor,Western Digital
+75,76,76,cody72@example.net,"59410 Patton Mission
+Murrayburgh, SD 21745",70.81,RAM,AMD
+76,77,50,stevenserik@example.org,"6656 Stewart Lodge Suite 152
+Lake Sheila, FL 81682",100.05,Monitor,NVIDIA
+77,78,23,crystal88@example.net,"Unit 6813 Box 3775
+DPO AE 52166",92.86,Monitor,AMD
+78,79,74,eallison@example.org,"61185 Timothy Causeway
+Michaelport, HI 69667",48.25,Cooling Fan,MSI
+79,80,2,victoria98@example.org,"00903 Ibarra Hill
+Clineport, MT 10888",27.61,SSD,NVIDIA
+80,81,95,mcmahonjohn@example.net,"019 Chapman Lane
+North Deborah, AL 26898",83.83,SSD,Gigabyte
+81,82,17,mgarcia@example.net,"9147 Michael Mountain Apt. 214
+West Andreaport, IL 09085",29.0,Cooling Fan,Gigabyte
+82,83,73,michaelmorgan@example.net,"816 William Isle Suite 860
+Georgeborough, AR 40227",63.58,Cooling Fan,Corsair
+83,84,78,lopezmegan@example.com,"5526 Mcclure Courts
+Madisonbury, FL 40175",120.5,Cooling Fan,ASUS
+84,85,91,walkerkevin@example.org,"08646 Jonathan Key Apt. 081
+Robinsonside, MA 36705",113.2,Case,Intel
+85,86,32,fjones@example.com,"8934 John Overpass
+West Valerie, MO 82680",64.25,Motherboard,Intel
+86,87,83,christina20@example.com,"742 Kevin Spring Suite 141
+South Cindymouth, RI 59097",98.22,CPU,Western Digital
+87,88,31,frederickwerner@example.org,"7599 Wanda Drive Apt. 774
+Graceton, OK 31976",84.15,HDD,Gigabyte
+88,89,72,rogernunez@example.net,"1310 John Street Apt. 954
+Melissaside, OR 40805",89.46,Power Supply,MSI
+89,90,20,istein@example.net,"03071 Lisa Streets
+West Kyle, CO 39795",83.85,SSD,NVIDIA
+90,91,29,zachary28@example.org,"89550 Bridget Circles
+Weissfurt, LA 78908",116.72,Cooling Fan,ASUS
+91,92,70,patrick19@example.com,"83019 Matthew Hills Apt. 262
+Valeriemouth, ME 13174",93.37,RAM,Corsair
+92,93,44,mprice@example.com,"24104 Heather Trace Apt. 203
+Andrewsstad, CA 12526",70.9,Motherboard,Intel
+93,94,38,sandersmark@example.org,"076 Stanley Lock
+Angelaview, LA 81805",41.38,SSD,Samsung
+94,95,36,velliott@example.com,"110 Bernard Squares
+West Leeton, AZ 34384",110.88,Monitor,NVIDIA
+95,96,9,paulaholloway@example.net,"2717 Hernandez Radial
+East Lindsey, NY 53624",61.09,GPU,NVIDIA
+96,97,4,qwhite@example.org,"408 Kimberly Points Apt. 309
+Staceyville, NE 56202",24.44,Motherboard,AMD
+97,98,7,daviskatie@example.org,"955 Lawson Estates
+Reillyfurt, MI 85898",51.19,Motherboard,MSI
+98,99,39,christopher69@example.net,"128 Bennett Rest
+Coopermouth, NE 35681",74.96,Motherboard,Intel
+99,100,64,amandayang@example.net,"434 Pittman Forks Suite 210
+New Casey, CA 21036",87.03,Cooling Fan,Crucial
+100,101,10,kristophergregory@example.org,"157 Rodgers Fort
+Port James, ID 05760",58.35,Power Supply,NVIDIA
+101,102,38,sandersmark@example.org,"076 Stanley Lock
+Angelaview, LA 81805",115.55,Case,Western Digital
+102,103,41,jonesrobert@example.net,"13022 Mitchell Fort Suite 482
+Andersonside, SD 16925",75.99,Monitor,AMD
+103,104,47,caitlyn24@example.com,"USCGC Ramos
+FPO AP 77805",75.98,RAM,Samsung
+104,105,15,daniel38@example.net,"024 Matthews Well
+Victorburgh, UT 95098",86.03,Case,Gigabyte
+105,106,98,gturner@example.net,"819 Hill Center
+South Thomas, VA 02659",98.63,Power Supply,Corsair
+106,107,12,christinahoward@example.com,"35395 Paul Crescent Suite 629
+West Davidport, OK 21641",107.68,Cooling Fan,AMD
+107,108,25,georgeandrew@example.com,"0632 Harrison Highway Apt. 379
+Crystalport, HI 15104",104.35,Cooling Fan,Crucial
+108,109,72,rogernunez@example.net,"1310 John Street Apt. 954
+Melissaside, OR 40805",55.12,SSD,ASUS
+109,110,86,crodriguez@example.org,"5409 Tracy Plains Suite 488
+Lake Corey, WY 11370",82.58,Monitor,Gigabyte
+110,111,87,rodneysmith@example.org,"981 Byrd Rue Apt. 900
+Woodmouth, AK 01148",63.97,Motherboard,Western Digital
+111,112,92,brianrhodes@example.org,"607 Cox Forks Suite 168
+Ryanshire, AZ 35192",103.92,Power Supply,ASUS
+112,113,12,christinahoward@example.com,"35395 Paul Crescent Suite 629
+West Davidport, OK 21641",100.74,Cooling Fan,AMD
+113,114,32,fjones@example.com,"8934 John Overpass
+West Valerie, MO 82680",81.2,HDD,Crucial
+114,115,6,howard82@example.com,"511 Sally Flat Suite 146
+Sheliaburgh, NH 09833",39.64,SSD,ASUS
+115,116,70,patrick19@example.com,"83019 Matthew Hills Apt. 262
+Valeriemouth, ME 13174",97.41,Case,Samsung
+116,117,26,morrisjoseph@example.com,"519 Robert Manors
+Lake Deborah, FL 50833",76.03,SSD,NVIDIA
+117,118,95,mcmahonjohn@example.net,"019 Chapman Lane
+North Deborah, AL 26898",72.75,RAM,Intel
+118,119,87,rodneysmith@example.org,"981 Byrd Rue Apt. 900
+Woodmouth, AK 01148",41.33,GPU,AMD
+119,120,5,andremoreno@example.org,"PSC 0990, Box 2048
+APO AA 11639",115.89,SSD,Western Digital
+120,121,50,stevenserik@example.org,"6656 Stewart Lodge Suite 152
+Lake Sheila, FL 81682",71.55,SSD,ASUS
+121,122,20,istein@example.net,"03071 Lisa Streets
+West Kyle, CO 39795",62.08,HDD,Samsung
+122,123,83,christina20@example.com,"742 Kevin Spring Suite 141
+South Cindymouth, RI 59097",121.73,Cooling Fan,NVIDIA
+123,124,88,knixon@example.com,"9879 Samantha Isle Apt. 172
+North Davidton, CO 67243",107.79,Power Supply,Crucial
+124,125,23,crystal88@example.net,"Unit 6813 Box 3775
+DPO AE 52166",95.96,HDD,Corsair
+125,126,40,meltonzachary@example.com,"108 Beard Isle Suite 665
+New Davidhaven, WY 50899",38.64,GPU,Corsair
+126,127,89,aaronyoung@example.org,"080 John Parks Suite 670
+Bettyburgh, PA 51442",72.52,HDD,MSI
+127,128,57,kking@example.net,"56471 Erin Junctions Suite 909
+New Meganland, AL 30162",38.24,Case,Gigabyte
+128,129,16,danielbryan@example.org,"23911 Tyler Roads Apt. 606
+Frostshire, TN 75298",104.48,Monitor,ASUS
+129,130,14,briannahendricks@example.net,"Unit 6718 Box 1414
+DPO AP 33213",98.54,SSD,Western Digital
+130,131,28,daybrendan@example.com,"68844 Ellis Isle Suite 873
+West Billyshire, OR 93499",86.88,RAM,NVIDIA
+131,132,73,michaelmorgan@example.net,"816 William Isle Suite 860
+Georgeborough, AR 40227",98.34,Motherboard,Gigabyte
+132,133,42,gpearson@example.com,"47624 Simmons Mission
+Cindystad, NH 81448",120.75,CPU,Samsung
+133,134,88,knixon@example.com,"9879 Samantha Isle Apt. 172
+North Davidton, CO 67243",28.36,Motherboard,Crucial
+134,135,71,christina60@example.com,"5809 Lauren Causeway Suite 174
+Gregoryton, NH 34282",33.49,Monitor,Crucial
+135,136,39,christopher69@example.net,"128 Bennett Rest
+Coopermouth, NE 35681",29.91,Case,Corsair
+136,137,22,kayla35@example.com,"0700 Pena Shoal
+Huertaland, WA 00938",79.09,Motherboard,Corsair
+137,138,40,meltonzachary@example.com,"108 Beard Isle Suite 665
+New Davidhaven, WY 50899",55.16,CPU,Intel
+138,139,81,qgardner@example.net,"7017 Thomas Branch Apt. 484
+West Michael, HI 41444",23.48,Monitor,MSI
+139,140,73,michaelmorgan@example.net,"816 William Isle Suite 860
+Georgeborough, AR 40227",23.6,RAM,NVIDIA
+140,141,71,christina60@example.com,"5809 Lauren Causeway Suite 174
+Gregoryton, NH 34282",119.36,Cooling Fan,NVIDIA
+141,142,6,howard82@example.com,"511 Sally Flat Suite 146
+Sheliaburgh, NH 09833",34.2,Case,Samsung
+142,143,15,daniel38@example.net,"024 Matthews Well
+Victorburgh, UT 95098",112.51,Monitor,Intel
+143,144,54,tylerlane@example.com,"0659 Moody Groves
+Alvarezchester, NY 52900",80.72,Motherboard,Intel
+144,145,47,caitlyn24@example.com,"USCGC Ramos
+FPO AP 77805",42.41,RAM,Crucial
+145,146,10,kristophergregory@example.org,"157 Rodgers Fort
+Port James, ID 05760",100.32,CPU,AMD
+146,147,14,briannahendricks@example.net,"Unit 6718 Box 1414
+DPO AP 33213",77.6,GPU,Samsung
+147,148,79,ericramos@example.com,"493 Laura Causeway
+Kimberlyberg, KY 89293",49.63,Motherboard,ASUS
+148,149,34,ujohnson@example.org,"8095 Curry Ford Suite 591
+New Marioport, MI 21394",113.56,Cooling Fan,NVIDIA
+149,150,39,christopher69@example.net,"128 Bennett Rest
+Coopermouth, NE 35681",35.13,RAM,Intel
