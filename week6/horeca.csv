@@ -1,0 +1,325 @@
+year,category_code,category_description,citypart_code,citypart_name,branches_total,branches_12visitorsplus,employees
+2018,0,rental holiday accomodations,A,Centrum,20,15,40
+2018,0,rental holiday accomodations,E,West,5,5,5
+2018,0,rental holiday accomodations,F,Nieuw-West,5,0,5
+2018,0,rental holiday accomodations,K,Zuid,10,5,15
+2018,0,rental holiday accomodations,M,Oost,5,0,5
+2018,0,rental holiday accomodations,N,Noord,5,5,5
+2018,0,rental holiday accomodations,T,Zuidoost,0,0,5
+2018,1,hotels,A,Centrum,455,410,5090
+2018,1,hotels,E,West,120,95,955
+2018,1,hotels,F,Nieuw-West,35,30,615
+2018,1,hotels,K,Zuid,145,125,2490
+2018,1,hotels,M,Oost,50,45,760
+2018,1,hotels,N,Noord,35,30,390
+2018,1,hotels,S,Weesp,0,0,0
+2018,1,hotels,T,Zuidoost,20,15,225
+2018,2,"campings, hostels, bed and breakfast",A,Centrum,35,25,100
+2018,2,"campings, hostels, bed and breakfast",E,West,10,10,105
+2018,2,"campings, hostels, bed and breakfast",F,Nieuw-West,5,5,5
+2018,2,"campings, hostels, bed and breakfast",K,Zuid,10,5,10
+2018,2,"campings, hostels, bed and breakfast",M,Oost,5,5,50
+2018,2,"campings, hostels, bed and breakfast",N,Noord,5,5,20
+2018,2,"campings, hostels, bed and breakfast",T,Zuidoost,0,0,15
+2018,3,restaurants,A,Centrum,790,750,8405
+2018,3,restaurants,B,Westpoort,10,10,100
+2018,3,restaurants,E,West,245,240,1545
+2018,3,restaurants,F,Nieuw-West,115,110,730
+2018,3,restaurants,K,Zuid,370,340,3770
+2018,3,restaurants,M,Oost,180,165,1405
+2018,3,restaurants,N,Noord,80,70,820
+2018,3,restaurants,S,Weesp,0,0,0
+2018,3,restaurants,T,Zuidoost,65,55,660
+2018,4,"snackbars, lunchrooms, icecream parlors, fish stands",A,Centrum,325,310,2105
+2018,4,"snackbars, lunchrooms, icecream parlors, fish stands",B,Westpoort,5,5,15
+2018,4,"snackbars, lunchrooms, icecream parlors, fish stands",E,West,250,235,1095
+2018,4,"snackbars, lunchrooms, icecream parlors, fish stands",F,Nieuw-West,150,140,580
+2018,4,"snackbars, lunchrooms, icecream parlors, fish stands",K,Zuid,235,220,1105
+2018,4,"snackbars, lunchrooms, icecream parlors, fish stands",M,Oost,135,125,625
+2018,4,"snackbars, lunchrooms, icecream parlors, fish stands",N,Noord,95,95,540
+2018,4,"snackbars, lunchrooms, icecream parlors, fish stands",T,Zuidoost,100,90,985
+2018,5,"pubs, cafes, party locations, coffee places",A,Centrum,505,485,5115
+2018,5,"pubs, cafes, party locations, coffee places",B,Westpoort,0,0,10
+2018,5,"pubs, cafes, party locations, coffee places",E,West,170,160,805
+2018,5,"pubs, cafes, party locations, coffee places",F,Nieuw-West,45,40,200
+2018,5,"pubs, cafes, party locations, coffee places",K,Zuid,160,140,1155
+2018,5,"pubs, cafes, party locations, coffee places",M,Oost,95,95,925
+2018,5,"pubs, cafes, party locations, coffee places",N,Noord,40,35,275
+2018,5,"pubs, cafes, party locations, coffee places",S,Weesp,0,0,45
+2018,5,"pubs, cafes, party locations, coffee places",T,Zuidoost,25,25,125
+2018,7,catering,A,Centrum,235,215,575
+2018,7,catering,B,Westpoort,15,15,60
+2018,7,catering,E,West,295,260,565
+2018,7,catering,F,Nieuw-West,140,125,320
+2018,7,catering,K,Zuid,265,230,600
+2018,7,catering,M,Oost,215,195,550
+2018,7,catering,N,Noord,115,105,390
+2018,7,catering,T,Zuidoost,110,100,3935
+2018,8,kantines,A,Centrum,10,10,30
+2018,8,kantines,E,West,10,10,35
+2018,8,kantines,F,Nieuw-West,10,5,35
+2018,8,kantines,K,Zuid,15,15,80
+2018,8,kantines,M,Oost,10,10,90
+2018,8,kantines,N,Noord,10,5,15
+2018,8,kantines,T,Zuidoost,5,5,10
+2019,0,rental holiday accomodations,A,Centrum,20,15,40
+2019,0,rental holiday accomodations,E,West,5,5,5
+2019,0,rental holiday accomodations,F,Nieuw-West,5,5,5
+2019,0,rental holiday accomodations,K,Zuid,10,5,15
+2019,0,rental holiday accomodations,M,Oost,5,0,10
+2019,0,rental holiday accomodations,N,Noord,5,5,5
+2019,0,rental holiday accomodations,T,Zuidoost,0,0,5
+2019,1,hotels,A,Centrum,480,415,5280
+2019,1,hotels,B,Westpoort,0,0,0
+2019,1,hotels,E,West,115,90,980
+2019,1,hotels,F,Nieuw-West,40,30,615
+2019,1,hotels,K,Zuid,135,115,2580
+2019,1,hotels,M,Oost,55,45,740
+2019,1,hotels,N,Noord,45,35,475
+2019,1,hotels,S,Weesp,0,0,0
+2019,1,hotels,T,Zuidoost,20,15,305
+2019,2,"campings, hostels, bed and breakfast",A,Centrum,35,25,100
+2019,2,"campings, hostels, bed and breakfast",E,West,10,10,95
+2019,2,"campings, hostels, bed and breakfast",F,Nieuw-West,5,5,5
+2019,2,"campings, hostels, bed and breakfast",K,Zuid,10,5,10
+2019,2,"campings, hostels, bed and breakfast",M,Oost,5,0,35
+2019,2,"campings, hostels, bed and breakfast",N,Noord,10,5,25
+2019,2,"campings, hostels, bed and breakfast",T,Zuidoost,5,5,15
+2019,3,restaurants,A,Centrum,765,715,7955
+2019,3,restaurants,B,Westpoort,10,10,80
+2019,3,restaurants,E,West,235,220,1650
+2019,3,restaurants,F,Nieuw-West,115,110,705
+2019,3,restaurants,K,Zuid,370,340,3895
+2019,3,restaurants,M,Oost,190,170,1575
+2019,3,restaurants,N,Noord,75,65,835
+2019,3,restaurants,T,Zuidoost,60,55,670
+2019,4,"snackbars, lunchrooms, icecream parlors, fish stands",A,Centrum,300,285,2190
+2019,4,"snackbars, lunchrooms, icecream parlors, fish stands",B,Westpoort,5,5,10
+2019,4,"snackbars, lunchrooms, icecream parlors, fish stands",E,West,240,225,1090
+2019,4,"snackbars, lunchrooms, icecream parlors, fish stands",F,Nieuw-West,140,135,580
+2019,4,"snackbars, lunchrooms, icecream parlors, fish stands",K,Zuid,230,215,1035
+2019,4,"snackbars, lunchrooms, icecream parlors, fish stands",M,Oost,125,115,540
+2019,4,"snackbars, lunchrooms, icecream parlors, fish stands",N,Noord,95,90,360
+2019,4,"snackbars, lunchrooms, icecream parlors, fish stands",T,Zuidoost,85,80,935
+2019,5,"pubs, cafes, party locations, coffee places",A,Centrum,485,460,5120
+2019,5,"pubs, cafes, party locations, coffee places",B,Westpoort,5,5,10
+2019,5,"pubs, cafes, party locations, coffee places",E,West,160,145,875
+2019,5,"pubs, cafes, party locations, coffee places",F,Nieuw-West,40,35,195
+2019,5,"pubs, cafes, party locations, coffee places",K,Zuid,140,125,1160
+2019,5,"pubs, cafes, party locations, coffee places",M,Oost,95,95,810
+2019,5,"pubs, cafes, party locations, coffee places",N,Noord,35,30,235
+2019,5,"pubs, cafes, party locations, coffee places",S,Weesp,0,0,0
+2019,5,"pubs, cafes, party locations, coffee places",T,Zuidoost,25,20,125
+2019,7,catering,A,Centrum,250,210,530
+2019,7,catering,B,Westpoort,20,15,60
+2019,7,catering,E,West,355,295,675
+2019,7,catering,F,Nieuw-West,200,170,345
+2019,7,catering,K,Zuid,320,270,685
+2019,7,catering,M,Oost,270,235,485
+2019,7,catering,N,Noord,150,130,380
+2019,7,catering,S,Weesp,0,0,0
+2019,7,catering,T,Zuidoost,115,100,3930
+2019,8,kantines,A,Centrum,5,5,20
+2019,8,kantines,E,West,10,10,35
+2019,8,kantines,F,Nieuw-West,10,10,35
+2019,8,kantines,K,Zuid,15,15,85
+2019,8,kantines,M,Oost,15,10,135
+2019,8,kantines,N,Noord,10,10,20
+2019,8,kantines,T,Zuidoost,5,5,20
+2020,0,rental holiday accomodations,A,Centrum,20,15,40
+2020,0,rental holiday accomodations,E,West,5,0,5
+2020,0,rental holiday accomodations,F,Nieuw-West,5,5,10
+2020,0,rental holiday accomodations,K,Zuid,15,5,30
+2020,0,rental holiday accomodations,M,Oost,5,0,10
+2020,0,rental holiday accomodations,N,Noord,5,5,5
+2020,0,rental holiday accomodations,T,Zuidoost,0,0,5
+2020,1,hotels,A,Centrum,510,415,5330
+2020,1,hotels,B,Westpoort,0,0,0
+2020,1,hotels,E,West,130,85,1025
+2020,1,hotels,F,Nieuw-West,50,40,695
+2020,1,hotels,K,Zuid,150,110,2600
+2020,1,hotels,M,Oost,75,60,780
+2020,1,hotels,N,Noord,60,45,530
+2020,1,hotels,S,Weesp,0,0,0
+2020,1,hotels,T,Zuidoost,20,15,345
+2020,2,"campings, hostels, bed and breakfast",A,Centrum,35,25,105
+2020,2,"campings, hostels, bed and breakfast",E,West,10,5,95
+2020,2,"campings, hostels, bed and breakfast",F,Nieuw-West,5,5,5
+2020,2,"campings, hostels, bed and breakfast",K,Zuid,10,5,15
+2020,2,"campings, hostels, bed and breakfast",M,Oost,5,0,35
+2020,2,"campings, hostels, bed and breakfast",N,Noord,10,5,25
+2020,2,"campings, hostels, bed and breakfast",T,Zuidoost,5,5,15
+2020,3,restaurants,A,Centrum,815,760,8300
+2020,3,restaurants,B,Westpoort,10,10,85
+2020,3,restaurants,E,West,265,240,1735
+2020,3,restaurants,F,Nieuw-West,135,120,840
+2020,3,restaurants,K,Zuid,405,365,4160
+2020,3,restaurants,M,Oost,210,190,1825
+2020,3,restaurants,N,Noord,85,75,925
+2020,3,restaurants,T,Zuidoost,75,65,730
+2020,4,"snackbars, lunchrooms, icecream parlors, fish stands",A,Centrum,335,310,2505
+2020,4,"snackbars, lunchrooms, icecream parlors, fish stands",B,Westpoort,5,5,10
+2020,4,"snackbars, lunchrooms, icecream parlors, fish stands",E,West,255,235,1135
+2020,4,"snackbars, lunchrooms, icecream parlors, fish stands",F,Nieuw-West,170,160,705
+2020,4,"snackbars, lunchrooms, icecream parlors, fish stands",K,Zuid,260,240,1320
+2020,4,"snackbars, lunchrooms, icecream parlors, fish stands",M,Oost,135,125,665
+2020,4,"snackbars, lunchrooms, icecream parlors, fish stands",N,Noord,105,100,390
+2020,4,"snackbars, lunchrooms, icecream parlors, fish stands",T,Zuidoost,100,95,1020
+2020,5,"pubs, cafes, party locations, coffee places",A,Centrum,510,480,5360
+2020,5,"pubs, cafes, party locations, coffee places",B,Westpoort,5,5,10
+2020,5,"pubs, cafes, party locations, coffee places",E,West,165,150,850
+2020,5,"pubs, cafes, party locations, coffee places",F,Nieuw-West,50,45,280
+2020,5,"pubs, cafes, party locations, coffee places",K,Zuid,155,135,1165
+2020,5,"pubs, cafes, party locations, coffee places",M,Oost,95,95,910
+2020,5,"pubs, cafes, party locations, coffee places",N,Noord,40,35,320
+2020,5,"pubs, cafes, party locations, coffee places",S,Weesp,0,0,0
+2020,5,"pubs, cafes, party locations, coffee places",T,Zuidoost,25,20,145
+2020,7,catering,A,Centrum,390,300,645
+2020,7,catering,B,Westpoort,20,20,120
+2020,7,catering,E,West,555,430,865
+2020,7,catering,F,Nieuw-West,315,250,525
+2020,7,catering,K,Zuid,445,345,780
+2020,7,catering,M,Oost,385,295,585
+2020,7,catering,N,Noord,245,195,475
+2020,7,catering,S,Weesp,0,0,0
+2020,7,catering,T,Zuidoost,195,160,4905
+2020,8,kantines,A,Centrum,5,5,20
+2020,8,kantines,E,West,10,10,40
+2020,8,kantines,F,Nieuw-West,10,10,40
+2020,8,kantines,K,Zuid,20,15,90
+2020,8,kantines,M,Oost,10,10,135
+2020,8,kantines,N,Noord,10,5,20
+2020,8,kantines,T,Zuidoost,5,5,35
+2021,0,rental holiday accomodations,A,Centrum,25,20,55
+2021,0,rental holiday accomodations,E,West,10,5,10
+2021,0,rental holiday accomodations,F,Nieuw-West,10,5,10
+2021,0,rental holiday accomodations,K,Zuid,15,10,25
+2021,0,rental holiday accomodations,M,Oost,10,5,15
+2021,0,rental holiday accomodations,N,Noord,5,5,5
+2021,0,rental holiday accomodations,T,Zuidoost,0,0,5
+2021,1,hotels,,,0,0,20
+2021,1,hotels,A,Centrum,505,415,5350
+2021,1,hotels,B,Westpoort,5,0,20
+2021,1,hotels,E,West,130,90,1075
+2021,1,hotels,F,Nieuw-West,45,40,665
+2021,1,hotels,K,Zuid,150,105,2635
+2021,1,hotels,M,Oost,70,55,1105
+2021,1,hotels,N,Noord,70,50,530
+2021,1,hotels,S,Weesp,0,0,0
+2021,1,hotels,T,Zuidoost,25,20,370
+2021,2,"campings, hostels, bed and breakfast",A,Centrum,30,20,100
+2021,2,"campings, hostels, bed and breakfast",E,West,10,5,105
+2021,2,"campings, hostels, bed and breakfast",F,Nieuw-West,5,5,10
+2021,2,"campings, hostels, bed and breakfast",K,Zuid,10,5,10
+2021,2,"campings, hostels, bed and breakfast",M,Oost,0,0,35
+2021,2,"campings, hostels, bed and breakfast",N,Noord,10,5,25
+2021,2,"campings, hostels, bed and breakfast",T,Zuidoost,0,0,15
+2021,3,restaurants,A,Centrum,830,765,8255
+2021,3,restaurants,B,Westpoort,10,10,65
+2021,3,restaurants,E,West,285,265,2010
+2021,3,restaurants,F,Nieuw-West,140,120,815
+2021,3,restaurants,K,Zuid,430,385,4260
+2021,3,restaurants,M,Oost,220,200,1645
+2021,3,restaurants,N,Noord,95,80,925
+2021,3,restaurants,T,Zuidoost,75,65,705
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",,,0,0,5
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",A,Centrum,360,335,2660
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",B,Westpoort,5,5,5
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",E,West,265,245,1125
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",F,Nieuw-West,185,165,775
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",K,Zuid,290,265,1575
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",M,Oost,145,135,675
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",N,Noord,110,100,415
+2021,4,"snackbars, lunchrooms, icecream parlors, fish stands",T,Zuidoost,110,100,1050
+2021,5,"pubs, cafes, party locations, coffee places",A,Centrum,505,475,5080
+2021,5,"pubs, cafes, party locations, coffee places",B,Westpoort,5,5,210
+2021,5,"pubs, cafes, party locations, coffee places",E,West,160,145,875
+2021,5,"pubs, cafes, party locations, coffee places",F,Nieuw-West,55,45,275
+2021,5,"pubs, cafes, party locations, coffee places",K,Zuid,155,135,1200
+2021,5,"pubs, cafes, party locations, coffee places",M,Oost,95,90,895
+2021,5,"pubs, cafes, party locations, coffee places",N,Noord,45,40,340
+2021,5,"pubs, cafes, party locations, coffee places",S,Weesp,0,0,0
+2021,5,"pubs, cafes, party locations, coffee places",T,Zuidoost,25,20,140
+2021,7,catering,A,Centrum,445,340,785
+2021,7,catering,B,Westpoort,30,25,155
+2021,7,catering,E,West,585,450,835
+2021,7,catering,F,Nieuw-West,340,265,525
+2021,7,catering,K,Zuid,490,365,805
+2021,7,catering,M,Oost,395,310,595
+2021,7,catering,N,Noord,280,225,555
+2021,7,catering,S,Weesp,5,0,5
+2021,7,catering,T,Zuidoost,225,180,5105
+2021,8,kantines,A,Centrum,10,10,25
+2021,8,kantines,B,Westpoort,0,0,20
+2021,8,kantines,E,West,5,5,30
+2021,8,kantines,F,Nieuw-West,15,15,45
+2021,8,kantines,K,Zuid,15,15,70
+2021,8,kantines,M,Oost,15,10,150
+2021,8,kantines,N,Noord,10,5,20
+2021,8,kantines,T,Zuidoost,10,5,25
+2022,0,rental holiday accomodations,A,Centrum,25,15,55
+2022,0,rental holiday accomodations,E,West,5,5,10
+2022,0,rental holiday accomodations,F,Nieuw-West,10,5,15
+2022,0,rental holiday accomodations,K,Zuid,15,10,25
+2022,0,rental holiday accomodations,M,Oost,10,5,15
+2022,0,rental holiday accomodations,N,Noord,5,5,10
+2022,0,rental holiday accomodations,T,Zuidoost,0,0,0
+2022,1,hotels,A,Centrum,480,390,5285
+2022,1,hotels,B,Westpoort,5,0,25
+2022,1,hotels,E,West,120,80,1000
+2022,1,hotels,F,Nieuw-West,50,40,905
+2022,1,hotels,K,Zuid,150,105,2690
+2022,1,hotels,M,Oost,60,45,1235
+2022,1,hotels,N,Noord,65,45,520
+2022,1,hotels,S,Weesp,0,0,0
+2022,1,hotels,T,Zuidoost,25,20,400
+2022,2,"campings, hostels, bed and breakfast",A,Centrum,25,20,95
+2022,2,"campings, hostels, bed and breakfast",E,West,10,5,100
+2022,2,"campings, hostels, bed and breakfast",F,Nieuw-West,5,5,5
+2022,2,"campings, hostels, bed and breakfast",K,Zuid,10,5,10
+2022,2,"campings, hostels, bed and breakfast",M,Oost,5,5,35
+2022,2,"campings, hostels, bed and breakfast",N,Noord,10,5,15
+2022,2,"campings, hostels, bed and breakfast",T,Zuidoost,0,0,15
+2022,3,restaurants,A,Centrum,825,750,8240
+2022,3,restaurants,B,Westpoort,15,15,75
+2022,3,restaurants,E,West,285,255,1950
+2022,3,restaurants,F,Nieuw-West,135,115,830
+2022,3,restaurants,K,Zuid,435,390,4290
+2022,3,restaurants,M,Oost,235,200,1660
+2022,3,restaurants,N,Noord,105,90,1110
+2022,3,restaurants,S,Weesp,0,0,5
+2022,3,restaurants,T,Zuidoost,75,65,610
+2022,4,"snackbars, lunchrooms, icecream parlors, fish stands",A,Centrum,375,350,2590
+2022,4,"snackbars, lunchrooms, icecream parlors, fish stands",B,Westpoort,5,5,10
+2022,4,"snackbars, lunchrooms, icecream parlors, fish stands",E,West,285,270,1235
+2022,4,"snackbars, lunchrooms, icecream parlors, fish stands",F,Nieuw-West,190,175,855
+2022,4,"snackbars, lunchrooms, icecream parlors, fish stands",K,Zuid,280,255,1550
+2022,4,"snackbars, lunchrooms, icecream parlors, fish stands",M,Oost,170,155,790
+2022,4,"snackbars, lunchrooms, icecream parlors, fish stands",N,Noord,120,110,440
+2022,4,"snackbars, lunchrooms, icecream parlors, fish stands",T,Zuidoost,115,105,1090
+2022,5,"pubs, cafes, party locations, coffee places",A,Centrum,505,470,5050
+2022,5,"pubs, cafes, party locations, coffee places",B,Westpoort,10,5,215
+2022,5,"pubs, cafes, party locations, coffee places",E,West,155,145,825
+2022,5,"pubs, cafes, party locations, coffee places",F,Nieuw-West,50,40,270
+2022,5,"pubs, cafes, party locations, coffee places",K,Zuid,155,130,1135
+2022,5,"pubs, cafes, party locations, coffee places",M,Oost,95,90,910
+2022,5,"pubs, cafes, party locations, coffee places",N,Noord,45,40,400
+2022,5,"pubs, cafes, party locations, coffee places",S,Weesp,0,0,0
+2022,5,"pubs, cafes, party locations, coffee places",T,Zuidoost,25,20,140
+2022,7,catering,A,Centrum,470,360,885
+2022,7,catering,B,Westpoort,30,25,140
+2022,7,catering,E,West,660,510,930
+2022,7,catering,F,Nieuw-West,400,315,575
+2022,7,catering,K,Zuid,580,435,960
+2022,7,catering,M,Oost,465,355,685
+2022,7,catering,N,Noord,360,285,535
+2022,7,catering,S,Weesp,5,0,5
+2022,7,catering,T,Zuidoost,260,205,4575
+2022,8,kantines,A,Centrum,10,10,30
+2022,8,kantines,B,Westpoort,0,0,20
+2022,8,kantines,E,West,5,5,30
+2022,8,kantines,F,Nieuw-West,10,10,35
+2022,8,kantines,K,Zuid,15,15,80
+2022,8,kantines,M,Oost,10,5,125
+2022,8,kantines,N,Noord,10,5,20
+2022,8,kantines,T,Zuidoost,5,5,270
